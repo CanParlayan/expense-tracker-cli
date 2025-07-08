@@ -1,6 +1,3 @@
----
-
-````markdown
 # 💸 [Expense Tracker CLI](https://roadmap.sh/projects/expense-tracker)
 
 A simple yet powerful command-line application to help you track your daily expenses. You can **add**, **view**, **update**, **delete**, **filter**, and **summarize** your expenses — all from your terminal.
